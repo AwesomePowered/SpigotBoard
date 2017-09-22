@@ -1,3 +1,6 @@
-# SpigotBoard
-Spigotboard is a bukkit scoreboard plugin which i abandoned
-This repo contains the latest source code i was working on (might not work)
+# SpigotBoard (1.8 - 1.12.2)
+SpigotBoard is a simple but powerful spigot scoreboard plugin.
+
+### Placeholders
+SpigotBoard supports variables from PlaceholderAPI & some from Vault. A full list of built-in- and Vault variables can be found on the wiki page.
+
