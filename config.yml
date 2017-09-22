@@ -1,0 +1,41 @@
+#############################################################
+# ____        _             _   ____                      _ #
+#/ ___| _ __ (_) __ _  ___ | |_| __ )  ___   __ _ _ __ __| |#
+#\___ \| '_ \| |/ _` |/ _ \| __|  _ \ / _ \ / _` | '__/ _` |#
+# ___) | |_) | | (_| | (_) | |_| |_) | (_) | (_| | | | (_| |#
+#|____/| .__/|_|\__, |\___/ \__|____/ \___/ \__,_|_|  \__,_|#
+#      |_|      |___/                                       #
+#############################################################		
+#Welcome to the configuration of Spigotboard
+#
+#use '' otherwise colorcodes will not work and the plugins crashes!
+
+title: '&9&lSpigot&6&lBoard'
+
+text:
+     - 'Player: &a%name'
+     - 'Rank: &7%group'
+     - 'Time: &7%time'
+     - '&r'
+     - 'Money: &7%money'
+     - 'Online: &a%online&7/&c%max'
+     - '&dMore info can be'
+     - '&dfound at the wiki!'
+     
+
+#Below you can set the toggle command, Use this to toggle the scoreboard!
+ToggleCommand: toggle
+
+messages:
+    hide: '&cYou toggled the scoreboard!'
+    unhide: '&aThe scoreboard is now longer hiden for you'
+
+#If you put worlds below players in that world will not see the scoreboard.
+DisabledWorlds:
+    - world1
+    - world2
+
+#End of the configuration!
+#Report issues here: https://github.com/TheIndra55/SpigotBoard/issues
+
+
