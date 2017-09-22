@@ -1,9 +1,0 @@
-name: SpigotBoard
-main: eu.theindra.spigotboard.Main
-softdepend: [Vault, PlaceholderAPI]
-#Niet vergeten te updaten op de site! En te updaten in onjoin
-version: 2.0
-author: TheIndra
-
-commands:
-   SpigotBoard:
