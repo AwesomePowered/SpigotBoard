@@ -1,0 +1,7 @@
+main: me.flower.SpigotBoard
+version: 2.1.8
+name: SpigotBoard
+softdepend: [PlaceholderAPI, Vault]
+
+commands:
+  spigotboard: 
